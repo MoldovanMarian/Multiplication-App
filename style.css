@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  display: flex; /* Flex2ibilitate elemente pentru a le putea aduce la mijlocul paginii */
-  justify-content: center; /* Aliniare elemente pe mijloc */
+  display: flex; 
+  justify-content: center; 
   height: 100vh;
   align-items: center;
   text-align: center;
